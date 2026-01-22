@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Heythere👋&animation=fadeIn&type=venom&color=gradient&height=100"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey%20there%20👋&fontSize=50&height=100" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hey%20there%20👋&fontSize=50&height=100" />
 </p>
