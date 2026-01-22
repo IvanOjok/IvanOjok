@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Heythere👋&animation=fadeIn&type=venom&color=gradient&height=100"/>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hey%20there%20👋&fontSize=50&height=100&textBg=true&animation=fadeIn&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?text=Heythere👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey%20there%20👋&fontSize=50&height=100&animation=fadeIn&fontColor=000000" />
 </p>
