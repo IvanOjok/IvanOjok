@@ -25,7 +25,9 @@ Here are some ideas to get you started:
   🌱 A passionate and experienced Software Engineer with 5+ years building and scaling production mobile and backend systems. <br><br>
   👯 Proven track record delivering KYC platforms, digital wallets, and financial transaction systems used by thousands of users. <br><br>
   ⚡ Strong in system design, API development, and cross-functional delivery within resource-constrained, high-impact contexts. <br><br>
-  ✨ Currently engaging with data and ML algorithms and AI models
+  ✨ Currently engaging with data and ML algorithms and AI models. <br><br>
+  🔭 <i>I’m also moving some of my most amazing work from private organization repos to this profile (No worries, I'm only implementing the project ideas and so building most components from scratch mainly backends systems and UI components so no organization is affected).</i>
+  
 </p>
 
 <h2>Core skills</h2>
